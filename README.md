@@ -1,5 +1,6 @@
 # TriangleSnake
-The Fifth game I made on 24.01.2023 and first on Unreal Engine 5.  I had long break in programming games because of some bad choices<br/>
+A regular Snake game but 3D and with a tail that smoothly "follows" behind the head - it doesn't jump like in the original<br/>
+The game created in 8 days. (from 16.01.2023 to 24.01.2023)
 
 You can download game here: <a href="https://drive.google.com/file/d/19xKp82ZiUKhHR3rX7Z6UX2OewBS-j4o1/view?usp=share_link"> TriangleSnake </a><br/>
 Gameplay on Youtube: <a href="https://youtu.be/E8a2Ha8Hg7k"> TriangleSnake
